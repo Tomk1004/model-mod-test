@@ -1,0 +1,6 @@
+title: Ventus Over Sora
+assets:
+  - name: obj/P_EX100.mdlx
+    method: copy
+    source:
+      - name: mod-files/obj/P_EX100.mdlx
